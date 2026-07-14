@@ -1,0 +1,49 @@
+ScoreDude Privacy Policy
+
+Effective Date: 07/13/2026
+
+ScoreDude is a score reporting service for softball tournaments. Participating umpires, scorekeepers, and tournament staff may send SMS/MMS messages, including scorecard photos, to a ScoreDude phone number so tournament scores can be processed and recorded.
+
+Information We Collect
+
+When you send a message to ScoreDude, we may collect:
+- Your phone number
+- SMS/MMS message text
+- Scorecard photos or other images you submit
+- Message metadata such as date, time, sender phone number, and delivery information
+- Parsed game information such as team names, division, field, game time, and score
+
+How We Use Information
+
+We use this information only to:
+- Receive and process submitted score reports
+- Interpret scorecard images or score-related messages
+- Match submitted scores to scheduled tournament games
+- Record scores in tournament tracking systems such as Google Sheets
+- Send confirmation or clarification messages back to the sender
+- Allow tournament administrators to review submitted scores and source images
+
+We do not use ScoreDude message data for marketing or promotional messaging.
+
+Information Sharing
+
+We do not sell personal information. We do not share personal information with third parties for marketing or promotional purposes.
+
+ScoreDude may use service providers, such as SMS/MMS providers, cloud hosting providers, Google Workspace, storage providers, and AI/OCR processing providers, solely as needed to operate the score reporting service. These providers process information only for service operation purposes, such as receiving messages, storing submitted images, interpreting scorecards, and recording tournament results.
+
+Score information and submitted images may be made available to the tournament organizer or authorized tournament administrators for tournament operations and score verification.
+
+Data Retention
+
+Submitted messages, scorecard images, parsed results, and processing logs may be retained for the duration of the tournament and for a reasonable period afterward for audit, correction, support, or dispute resolution purposes. Tournament organizers may request deletion of retained ScoreDude data.
+
+Opt Out
+
+You may stop receiving SMS messages from ScoreDude by replying STOP. You may resume by replying START, subject to carrier and messaging provider rules.
+
+Contact
+
+For privacy questions or data deletion requests, contact:
+
+Evgeny Krevets
+nospam@krevets.com
