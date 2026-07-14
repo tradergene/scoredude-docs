@@ -1,0 +1,108 @@
+ScoreDude Terms and Conditions
+
+Effective Date: 07/13/2026
+
+Program Name: ScoreDude
+
+Program Description:
+ScoreDude is a transactional score reporting service for softball tournaments. Participating umpires, scorekeepers, tournament staff, and tournament administrators may submit game score information by SMS/MMS, including scorecard photos. ScoreDude may process submitted messages and images, interpret scorecard information, match submitted scores to scheduled tournament games, record scores in tournament tracking systems, and send confirmation or clarification messages related to submitted scores.
+
+By sending SMS/MMS messages, scorecard photos, or other score information to a ScoreDude phone number, you agree to these Terms and Conditions.
+
+1. Authorized Use
+
+ScoreDude is intended only for authorized tournament-related score reporting and administration. You may use ScoreDude only if you are participating in, administering, officiating, scorekeeping, or otherwise assisting with a tournament that has authorized use of the service.
+
+You agree not to use ScoreDude for unlawful, abusive, harassing, fraudulent, misleading, promotional, marketing, or unrelated purposes.
+
+2. SMS/MMS Messaging Terms
+
+By texting a ScoreDude phone number, you consent to receive transactional SMS/MMS messages from ScoreDude related to your score submission.
+
+Messages may include:
+- Confirmation that a submitted score was received or recorded
+- Clarification requests if a score, team, division, field, game time, or game match is unclear
+- Error or review notifications related to score processing
+- Follow-up messages directly related to tournament score reporting
+
+Message Frequency:
+Message frequency varies based on your score submissions and tournament activity. You may receive one or more messages per submitted score report, including confirmations, clarification requests, and follow-up messages if needed.
+
+Message and Data Rates:
+Message and data rates may apply.
+
+Opt-Out Instructions:
+You may opt out of receiving SMS messages from ScoreDude at any time by replying **STOP**. After replying **STOP**, you may receive a final confirmation message that you have been unsubscribed. After opting out, you will no longer receive ScoreDude SMS messages unless you opt back in where supported.
+
+Support / Help Instructions:
+For help, reply **HELP**.
+
+ScoreDude does not send marketing or promotional messages.
+
+3. Submitted Content
+
+You are responsible for the accuracy of any score information, scorecard photos, text, or other content you submit to ScoreDude. You should only submit information that you are authorized to provide.
+
+Submitted content may be reviewed by tournament organizers, administrators, or authorized personnel for score verification, correction, audit, or dispute resolution.
+
+4. Automated Processing
+
+ScoreDude may use automated tools, including optical character recognition, artificial intelligence, natural language processing, and deterministic matching logic, to interpret score submissions and match them to scheduled games.
+
+Automated processing may be incorrect or incomplete. ScoreDude may request clarification, route submissions for human review, or decline to automatically record a score if the submission is unclear, ambiguous, incomplete, conflicting, or cannot be matched to a scheduled game.
+
+5. No Guarantee of Accuracy or Availability
+
+ScoreDude is provided as a score reporting aid. While the service is designed to help process scores efficiently, it does not guarantee that every score will be interpreted correctly, recorded immediately, or accepted without human review.
+
+The official tournament organizer or administrator remains responsible for final score verification and tournament records.
+
+ScoreDude may be unavailable, delayed, or interrupted due to network issues, carrier limitations, third-party service outages, software errors, or other causes.
+
+6. Privacy
+
+Use of ScoreDude is also governed by the ScoreDude Privacy Policy, which explains what information is collected, how it is used, and how it may be shared for service operation purposes.
+
+Privacy Policy:
+
+https://raw.githubusercontent.com/tradergene/scoredude-docs/refs/heads/main/scoredude-privacy.txt
+
+7. Third-Party Services
+
+ScoreDude may rely on third-party service providers, including SMS/MMS providers, cloud hosting providers, storage providers, Google Workspace or spreadsheet services, and AI/OCR processing providers. These services are used only as needed to operate the score reporting service.
+
+8. Prohibited Content and Conduct
+
+You agree not to submit content that:
+- Is unlawful, threatening, abusive, harassing, defamatory, obscene, or otherwise inappropriate
+- Contains sensitive personal information not needed for tournament score reporting
+- Violates the rights of others
+- Attempts to interfere with or misuse the service
+- Contains spam, malware, or fraudulent information
+
+9. Data Retention
+
+Submitted messages, images, parsed results, and processing logs may be retained for the duration of the tournament and for a reasonable period afterward for audit, correction, support, or dispute resolution purposes. Tournament organizers may request deletion of retained ScoreDude data, subject to operational, legal, or recordkeeping needs.
+
+10. Changes to the Service or Terms
+
+ScoreDude may update the service or these Terms from time to time. Updated Terms will be posted or made available through an appropriate public link. Continued use of ScoreDude after updates means you accept the updated Terms.
+
+11. Termination or Suspension
+
+Access to ScoreDude may be suspended or terminated if the service is misused, if tournament authorization ends, if messaging rules are violated, or if continued service is not feasible.
+
+12. Disclaimer
+
+ScoreDude is provided “as is” and “as available,” without warranties of any kind, express or implied. To the maximum extent permitted by law, ScoreDude disclaims all warranties, including warranties of accuracy, reliability, availability, merchantability, fitness for a particular purpose, and non-infringement.
+
+13. Limitation of Liability
+
+To the maximum extent permitted by law, ScoreDude and its operators will not be liable for indirect, incidental, consequential, special, exemplary, or punitive damages, or for lost profits, lost data, tournament disputes, scoring errors, delays, or service interruptions arising from use of the service.
+
+14. Contact
+
+For questions about these Terms or for ScoreDude support, contact:
+
+Evgeny Krevets
+nospam@krevets.com
